@@ -1,0 +1,25 @@
+.nav-link{
+    font-weight: 100;
+}
+
+.nav-link:hover{
+    font-weight: bold;
+    border-bottom: solid 3px white;
+    border-radius: 2px;
+}
+
+.card:hover{
+    background-color: red;
+    color: white;
+}
+
+.card-text{
+    justify-content: space-between;
+}
+
+body{
+    background-image: url("bg.jpg");
+    width: auto;
+    height: auto;
+}
+
